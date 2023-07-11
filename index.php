@@ -4,7 +4,7 @@
 
 <?php
 //header("Refresh: 3;");
-echo "<h3>Hello World!</h3>";
+echo "<h1>Hello World!</h1>";
 echo "Hello world!<br>";
 echo "This php website is served from ", gethostname(), "<br>";
 echo "Contents of /opt <br>";
